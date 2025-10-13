@@ -1,0 +1,181 @@
+@media only screen and (max-width: 1050px){
+  .ceo{
+    width:85%;
+    padding: 25px 30px;
+  }
+  .about-ceo{
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 1030px){
+.web{
+  width: 50%;
+  padding: 25px;
+  h2{
+    font-size: 50px;
+  }
+}
+}
+@media only screen and (max-width: 950px){
+  .business {
+    width: 76%;
+    padding: 25px;
+  }
+  .about-it{
+    width: 35%;
+    height: 325px;
+  }
+  .business-sec{
+    .row{
+      justify-content: space-around;
+    }
+  }
+  .develop{
+    width: 100%;
+  }
+  .developed{
+    width: 80%;
+  }
+  .developed2 {
+    width: 80%;
+    margin: 10%;
+    color: white;
+  }
+  .develop2{
+    width: 100%;
+  }
+  .team {
+    width: 48%;
+  }
+  .plans{
+    .row{
+      justify-content: space-around;
+    }
+  }
+  .plan1{
+    width: 36%;
+  }
+  .plan2{
+    width: 36%;
+  }
+}
+@media only screen and (max-width: 850px){
+  .about-it {
+    width: 35%;
+    height: 290px;
+  }
+  .idea-sec{
+    .row{
+      flex-direction: row-reverse;
+    }
+  }
+  .idea {
+    width: 300px;
+    height: 300px;
+    h3{
+      font-size: 35px;
+    }
+    .para5{
+      font-size:10px;
+    }
+  }
+}
+@media only screen and (max-width: 755px){
+  .about-us {
+    background: #419df4;
+    color: white;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    padding: 45px 30px;
+  }
+  .about-us-sec{
+    background: #FFFFFF;
+  }
+  .about-us2 {
+    width: 100%;
+    padding: 30px;
+  }
+}
+@media only screen and (max-width: 750px){
+  .web {
+    width: 90%;
+  }
+  .business {
+    width: 100%;
+  }
+  .web-img {
+    width: 65%;
+    margin: auto;
+  }
+  .about-it {
+    width: 46%;
+    height: 348px;
+  }
+  .about-us{
+    width: 100%;
+  }
+  .about-us2{
+    width: 100%;
+  }
+  .solution {
+    width: 100%;
+    height: 250px;
+  }
+  .solution2 {
+    width: 100%;
+  }
+  .team {
+    width: 100%;
+  }
+  .plan1{
+    width: 85%;
+  }
+  .plan2{
+    width: 85%;
+  }
+  .quote {
+    width: 80%;
+    margin: auto;
+  }
+    .company{
+    width: 91%;
+    }
+}
+@media only screen and (max-width: 700px){
+  .about-it {
+    width: 51%;
+    height: 330px;
+  }
+}
+@media only screen and (max-width: 650px){
+  .idea-sec{
+    .row{
+      flex-direction: column-reverse;
+    }
+  }
+  .idea-img{
+    width: 70%;
+    margin:auto ;
+  }
+  .idea{
+    width: 55%;
+    height: 330px;
+    margin:auto ;
+  }
+}
+@media only screen and (max-width: 600px){
+  .about-it {
+    width: 51%;
+    height: 290px;
+  }
+}
+@media only screen and (max-width: 500px){
+  .about-it {
+    width: 62%;
+  }
+  .idea {
+    width: 70%;
+  }
+}
