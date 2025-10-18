@@ -700,6 +700,49 @@
   .idea {
     width: 70%;
   }
+  .size {
+    width: 100%;
+  }
+  .container-md {
+    padding: 0 10px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .business h3 {
+    font-size: 35px;
+  }
+  .about-it {
+    width: 80%;
+    margin: 30px;
+  }
+  .about-it .para3 {
+    padding: 15px;
+  }
+  .about-it h3 {
+    padding: 0;
+  }
+  .idea {
+    width: 65%;
+    height: 235px;
+    margin: auto;
+  }
+  .idea h3 {
+    font-size: 20px;
+  }
+  .solution {
+    width: 100%;
+    height: auto;
+  }
+  .idea h3 {
+    font-size: 15px;
+  }
+  .idea .para5 {
+    font-size: 8px;
+  }
+  .plans h2 {
+    font-size: 35px;
+    font-family: "Montserrat", sans-serif;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
